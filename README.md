@@ -1,3 +1,5 @@
+# MY desctrioption and stuff
+
 - 👋 Hi, I’m @Johnnyjacksonjunior
 - 👀 I’m interested in learning the most I can about coding and everything that involves software engineering.
 - 🌱 I’m currently learning ... PHP and its frameworks, along with database structures and procedures
